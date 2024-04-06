@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "",
+    "appService.deploySubpath": "developerlife-azurewebapps-master\\AzureWebsite_Before\\AzureWebsite.Api\\publish"
+}
