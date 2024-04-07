@@ -1,0 +1,12 @@
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\CdvRest
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\appsettings.Development.json
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\appsettings.json
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\CdvRest.dll
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\CdvRest.deps.json
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\CdvRest.runtimeconfig.json
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\CdvRest.pdb
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\Microsoft.OpenApi.dll
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\macko\Desktop\systemycdv\CdvRest\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
